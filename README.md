@@ -7,7 +7,7 @@
         도전을 즐기며, 실패를 두려워하지 않습니다. 세상에 가치 없는 도전은 없다고 믿으니까요.
     </p> 
     <!-- 연락처 배지 -->
-    <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">Contact Me</h3> 
+    <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">✉️ Contact Me</h3> 
     <p style="margin-bottom: 30px;">
         <a href="https://www.instagram.com/hyunbin.0.3" style="margin: 0 10px;">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
@@ -17,7 +17,7 @@
         </a>
     </p> 
     <!-- 스킬 배지 -->
-    <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">Skills</h3> 
+    <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">💻 Skills</h3> 
     <p style="margin-bottom: 30px;">
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
