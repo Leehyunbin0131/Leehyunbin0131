@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 도전을 즐기며, 실패를 두려워하지 않습니다. 세상에 가치 없는 도전은 없다고 믿으니까요. </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -24,7 +24,7 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+
     <div align= "center"> <a href=https://www.instagram.com/hyunbin.0.3> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyunbin.0.3"> </a>
          <a href=mailto:unit60888@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:unit60888@gmail.com"> </a>
           </div>  <br> 
@@ -32,7 +32,7 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Leehyunbin0131&bg_color=60,ffffff,dbdbdb&title_color=454545&text_color=454545"
+    <img src="https://github-readme-stats.vercel.app/api?username=Leehyunbin0131&bg_color=60,ffffff,dbdbdb&title_color=454545&text_color=454545"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leehyunbin0131&layout=compact&bg_color=60,ffffff,dbdbdb&title_color=454545&text_color=454545"
            /> </div> 
     </div>
