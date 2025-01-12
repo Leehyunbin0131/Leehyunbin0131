@@ -8,7 +8,7 @@
         도전을 즐기며, 실패를 두려워하지 않습니다. 세상에 가치 없는 도전은 없다고 믿으니까요.
     </p> 
     <!-- 연락처 배지 -->
-    <h2 style="color: #282d33; margin-top: 20px; margin-bottom: 10px;">Contact Me</h2> 
+    <h1 style="color: #282d33; margin-top: 20px; margin-bottom: 10px;">Contact Me</h1> 
     <p style="margin-bottom: 30px;">
         <a href="https://www.instagram.com/hyunbin.0.3" style="margin: 0 10px;">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
