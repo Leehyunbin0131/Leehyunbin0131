@@ -7,7 +7,7 @@
         도전을 즐기며, 실패를 두려워하지 않습니다. 세상에 가치 없는 도전은 없다고 믿으니까요.
     </div> 
     <!-- 연락처 배지 -->
-    <h2 style="color: #FFFFFF; margin-top: 20px; margin-bottom: 10px;">Contact Me</h2> 
+   <!-- <h2 style="color: #FFFFFF; margin-top: 20px; margin-bottom: 10px;">Contact Me</h2> 
     <div style="margin-bottom: 30px;">
         <a href="https://www.instagram.com/hyunbin.0.3" style="margin: 0 10px;">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
@@ -20,11 +20,11 @@
         </a>
     </div> 
     <!-- 스킬 배지 -->
-    <h2 style="color: #FFFFFF; margin-top: 20px; margin-bottom: 10px;">Skills</h2> 
+   <!-- <h2 style="color: #FFFFFF; margin-top: 20px; margin-bottom: 10px;">Skills</h2> 
     <div style="margin-bottom: 30px;">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/ROS-FF6600?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS" />
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=3776AB" alt="Python" />
-    </div> 
+    </div> -->
 </div>
