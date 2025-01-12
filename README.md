@@ -31,8 +31,7 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPoroHyun%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-    <div align= "center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Leehyunbin0131&bg_color=60,ffffff,dbdbdb&title_color=454545&text_color=454545"
+    <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Leehyunbin0131&bg_color=60,ffffff,dbdbdb&title_color=454545&text_color=454545"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leehyunbin0131&layout=compact&bg_color=60,ffffff,dbdbdb&title_color=454545&text_color=454545"
            /> </div> 
     </div>
