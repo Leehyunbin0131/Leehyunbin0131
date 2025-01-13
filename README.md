@@ -23,5 +23,6 @@
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/ROS-FF6600?style=flat-square&logo=ROS&logoColor=white" alt="ROS" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
     </p> 
 </div>
