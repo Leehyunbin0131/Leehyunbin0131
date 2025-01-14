@@ -30,7 +30,7 @@
         <!-- Python -->
         <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=white" alt="Python" />
         <!-- ROS -->
-        <img src="https://img.shields.io/badge/ROS-FF6600?style=flat-square&logo=ROS&logoColor=white" alt="ROS2" />
+        <img src="https://img.shields.io/badge/ROS2-FF6600?style=flat-square&logo=ROS2&logoColor=white" alt="ROS2" />
         <!-- OpenCV -->
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
     </p> 
