@@ -33,5 +33,7 @@
         <img src="https://img.shields.io/badge/ROS2-FF6600?style=flat-square&logo=ROS&logoColor=white" alt="ROS2" />
         <!-- OpenCV -->
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
+        <!-- SwiftUI -->
+        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
     </p> 
 </div>
