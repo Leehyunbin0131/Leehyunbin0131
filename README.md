@@ -12,7 +12,7 @@
         <a href="https://www.instagram.com/hyunbin.0.3" style="margin: 0 10px;">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
         </a>
-        <a href="mailto:unit60888@gmail.com" style="margin: 0 10px;">
+        <a href="mailto:leehyunbin0131@gmail.com" style="margin: 0 10px;">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
         </a>
     </p> 
