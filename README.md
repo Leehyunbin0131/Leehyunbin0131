@@ -1,6 +1,4 @@
 <div align="center" style="max-width: 800px; margin: auto;">
-    <!-- 헤더 이미지 -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a7bd,100:009afa&height=180&text=PoroHyun&animation=&fontColor=ffffff&fontSize=60" alt="Header" />
     <!-- 이름 및 소개 -->
     <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">Leehyunbin</h3>  
     <p style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; margin-bottom: 30px;">
