@@ -2,7 +2,7 @@
     <!-- 이름 및 소개 -->
     <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">Leehyunbin</h3>  
     <p style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; margin-bottom: 30px;">
-        도전을 즐기며, 실패를 두려워하지 않습니다. 세상에 가치 없는 도전은 없다고 믿으니까요.
+        I enjoy taking on challenges and don't fear failing, because I believe there is no such thing as a worthless failure.
     </p> 
     <!-- 연락처 배지 -->
     <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">✉️ Contact Me</h3> 
