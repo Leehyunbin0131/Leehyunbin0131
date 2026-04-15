@@ -1,0 +1,27 @@
+name: Update D-Day Badge
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # 매일 한국 시간 기준 자정에 실행
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Calculate D-Day
+        run: |
+          # 2026-04-01 기준 일수 계산
+          START_DATE=$(date -d "2026-04-01" +%s)
+          CURRENT_DATE=$(date +%s)
+          DAYS=$(( (CURRENT_DATE - START_DATE) / 86400 ))
+          # README.md 파일 내의 배지 주소 수정 (sed 활용)
+          sed -i "s/Day-[0-9]\+_Since_April_1st/Day-${DAYS}_Since_April_1st/g" README.md
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update D-Day count" || exit 0
+          git push
