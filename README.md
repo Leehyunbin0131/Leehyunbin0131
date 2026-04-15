@@ -1,33 +1,71 @@
-<div align="center" style="max-width: 800px; margin: auto;">
-    <!-- 이름 및 소개 -->
-    <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">Leehyunbin</h3>  
-    <p style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; margin-bottom: 30px;">
-        I enjoy taking on challenges and don't fear failing, because I believe there is no such thing as a worthless failure.
-    </p> 
-    <!-- 연락처 배지 -->
-    <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">✉️ Contact Me</h3> 
-    <p style="margin-bottom: 30px;">
-        <a href="https://www.instagram.com/hyunbin.0.3" style="margin: 0 10px;">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
-        </a>
-        <a href="mailto:leehyunbin0131@gmail.com" style="margin: 0 10px;">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
-        </a>
-    </p> 
-    <!-- 스킬 배지 -->
-    <h3 style="color: #000000; margin-top: 20px; margin-bottom: 10px; border-bottom: none; text-decoration: none;">💻 Skills</h3> 
-    <p style="margin-bottom: 30px;">
-        <!-- C -->
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" />
-        <!-- C++ -->
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
-        <!-- Python -->
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=white" alt="Python" />
-        <!-- ROS -->
-        <img src="https://img.shields.io/badge/ROS2-FF6600?style=flat-square&logo=ROS&logoColor=white" alt="ROS2" />
-        <!-- OpenCV -->
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
-        <!-- SwiftUI -->
-        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-    </p> 
+<div align="center">
+  <h1>LEE HYUN BIN</h1>
+  <p><strong>Robotics Software Engineer | Autonomous Systems & AI Architecture</strong></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/WorldSkills_Korea-Bronze_Medal_in_Mobile_Robotics-CD7F32?style=flat-square" alt="WorldSkills Bronze Medal" />
+  </p>
+
+  <p>
+    42 Gyeongsan 4th Generation Member A &nbsp;|&nbsp; 
+    <img src="https://img.shields.io/badge/Day-15_Since_April_1st-black?style=flat-square" alt="D-Day">
+  </p>
+
+  <br>
+
+  <p align="center">
+    <em>"I embrace challenges and am not afraid of failure, as I believe no failure is without value."</em>
+  </p>
+
+  <br>
+
+  <p>
+    <a href="mailto:leehyunbin0131@gmail.com">
+      <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/hyunbin.0.3">
+      <img src="https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+</div>
+
+<hr>
+
+## 💡 About Me
+Currently a Computer Software student at **Daegu University**. Driven by a passion for robotics ignited by winning the **Bronze Medal at WorldSkills Korea (Mobile Robotics)**, I am deeply involved in researching autonomous navigation. My work focuses on **ROS2**, **SLAM**, and developing service robots built on autonomous mobile platforms, aiming to create intelligent systems that excel in real-world environments.
+
+<br>
+
+## 🛠 Technical Expertise
+
+**💻 Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+**🤖 Robotics & Perception**
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/SLAM%20Toolbox-181717?style=flat-square" alt="SLAM" />
+  <img src="https://img.shields.io/badge/Nav2-181717?style=flat-square" alt="Navigation2" />
+  <img src="https://img.shields.io/badge/Sensor%20Fusion-181717?style=flat-square" alt="Sensor Fusion" />
+</p>
+
+**⚙️ Hardware & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leehyunbin0131&show_icons=true&theme=transparent&hide_border=true&title_color=181717&text_color=444444&icon_color=181717" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leehyunbin0131&layout=compact&theme=transparent&hide_border=true&title_color=181717&text_color=444444" height="165" alt="Top Languages" />
 </div>
