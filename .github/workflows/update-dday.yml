@@ -14,7 +14,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Calculate D-Day
         run: |
           START_DATE=$(date -d "2026-04-01" +%s)
