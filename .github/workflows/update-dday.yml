@@ -5,22 +5,28 @@ on:
     - cron: '0 15 * * *' # 매일 한국 시간 기준 자정에 실행
   workflow_dispatch: # 수동 실행 가능
 
-# --- 이 블록을 추가합니다 ---
 permissions:
-  contents: write
-# -----------------------------
+  contents: write # 403 권한 에러 해결을 위한 쓰기 권한 부여
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4 # Node.js 경고 해결을 위해 v4로 업데이트
+      
       - name: Calculate D-Day
         run: |
+          # 시간대를 서울로 설정하여 한국 시간(KST) 기준으로 정확하게 계산
+          export TZ='Asia/Seoul'
+          
           START_DATE=$(date -d "2026-04-01" +%s)
           CURRENT_DATE=$(date +%s)
-          DAYS=$(( (CURRENT_DATE - START_DATE) / 86400 ))
+          
+          # 초 단위 차이를 일 단위로 변환 (정수 버림 방지를 위해 12시간(43200초) 더한 후 계산)
+          DAYS=$(( (CURRENT_DATE - START_DATE + 43200) / 86400 ))
+          
           sed -i "s/Day-[0-9]\+_Since_April_1st/Day-${DAYS}_Since_April_1st/g" README.md
+          
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
