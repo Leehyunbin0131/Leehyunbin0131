@@ -8,7 +8,7 @@
 
   <p>
     42 Gyeongsan 4th Generation Member A &nbsp;|&nbsp; 
-    <img src="https://img.shields.io/badge/Day-15_Since_April_1st-black?style=flat-square" alt="D-Day">
+    <img src="https://img.shields.io/badge/Day-16_Since_April_1st-black?style=flat-square" alt="D-Day">
   </p>
 
   <br>
