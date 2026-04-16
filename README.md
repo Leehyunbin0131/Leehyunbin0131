@@ -55,14 +55,6 @@ Currently a Computer Software student at **Daegu University**. Driven by a passi
   <img src="https://img.shields.io/badge/Sensor%20Fusion-181717?style=flat-square" alt="Sensor Fusion" />
 </p>
 
-**⚙️ Hardware & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
 <hr>
 
 <div align="center">
